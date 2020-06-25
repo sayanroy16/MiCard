@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget{
                 ),
               ),
                 Text(
-                  'Flutter Devoloper',
+                  'Flutter Developer',
 
                   style: TextStyle(
                     fontSize: 20.0,
